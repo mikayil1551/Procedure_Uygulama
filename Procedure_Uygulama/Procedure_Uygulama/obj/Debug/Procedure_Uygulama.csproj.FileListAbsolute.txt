@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\bin\Debug\Procedure_Uygulama.exe.config
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\bin\Debug\Procedure_Uygulama.exe
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\bin\Debug\Procedure_Uygulama.pdb
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\obj\Debug\Procedure_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\obj\Debug\Procedure_Uygulama.Form1.resources
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\obj\Debug\Procedure_Uygulama.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\obj\Debug\Procedure_Uygulama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\obj\Debug\Procedure_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\obj\Debug\Procedure_Uygulama.exe
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\obj\Debug\Procedure_Uygulama.pdb
+C:\Users\User\Desktop\YenidenC#\ADO.NET\07.05.2021\Procedure_Uygulama\Procedure_Uygulama\obj\Debug\Procedure_Uygulama.KategoriForm.resources
